@@ -30,7 +30,7 @@ python main.py
 ```
 
 Hotkeys you can then press:
-
+- F8: Paraphrases the current selection
 - F9: Fixes the current line (without having to select the text)
 - F10: Fixes the current selection
 
